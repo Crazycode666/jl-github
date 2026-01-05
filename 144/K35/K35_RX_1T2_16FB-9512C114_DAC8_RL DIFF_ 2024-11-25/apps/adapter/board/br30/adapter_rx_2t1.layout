@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\..\include\macro_default.h" open="1" top="1" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="70739" topLine="2040" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br30\asm\power_interface.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1144" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br30\asm\pwm_led.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="780" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx_global_build_cfg.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4589" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\key_table\iokey_table.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="494" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main\wireless_mic_2t1\2t1_rx.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16784" topLine="558" />
+		</Cursor>
+	</File>
+	<File name="..\..\common\user_cfg.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4631" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br30_develop\pwm_led.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75498" topLine="2453" />
+		</Cursor>
+	</File>
+	<File name="..\..\ui_manage.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3707" topLine="142" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_power_manage.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\power_manage\app_charge.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1577" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\macro.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8116" topLine="116" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx_cfg.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10467" topLine="192" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br30_develop\audio_config.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3223" topLine="66" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
