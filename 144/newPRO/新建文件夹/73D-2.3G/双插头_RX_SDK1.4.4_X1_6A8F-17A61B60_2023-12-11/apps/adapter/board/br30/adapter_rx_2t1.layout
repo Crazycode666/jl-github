@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\..\common\bt_common\bt_hci_event.c" open="0" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1651" topLine="26" />
+		</Cursor>
+	</File>
+	<File name="..\..\common\init.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1168" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="..\..\idev\idev_bt\idev_ble\idev_ble_wireless.c" open="0" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10876" topLine="310" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\bt_common\bt_test_api.c" open="0" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="405" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="..\..\adapter_uart_demo.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br30_develop\audio_config.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3539" topLine="69" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\include\bt_common.h" open="0" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4665" topLine="146" />
+		</Cursor>
+	</File>
+	<File name="..\..\ui_manage.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5794" topLine="177" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\device\key\iokey.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="239" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\multi_demo\le_multi_trans.c" open="0" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11749" topLine="406" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\macro_default.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="49036" topLine="1397" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\wireless_mic\le_wireless_mic_server.c" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="31034" topLine="1058" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br30\asm\pwm_led.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1311" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_power_manage.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="351" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main\wireless_mic_2t1\2t1_rx.c" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18018" topLine="591" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\multi_demo\le_multi_client.c" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36153" topLine="1059" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br30_develop\pwm_led.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="74277" topLine="2417" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\le_client_demo.c" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="47068" topLine="1485" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx_cfg.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3036" topLine="261" />
+		</Cursor>
+	</File>
+	<File name="..\..\idev\idev_bt\idev_ble\adapter_idev_ble.c" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="563" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="..\..\process\adapter_process.h" open="0" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="814" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx_global_build_cfg.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1126" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br30\asm\power_interface.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1144" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="..\..\odev\odev_bt\odev_ble\adapter_odev_ble.c" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1727" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="..\..\idev\idev_mic\adapter_idev_mic.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\device\key\key_driver.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1943" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\trans_data_demo\le_trans_data.c" open="0" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="957" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\macro.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8116" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\common\user_cfg.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4678" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\le_client_demo.h" open="0" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2823" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\common\third_party_profile\jieli\wireless_mic\le_wireless_mic_client.c" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="29182" topLine="865" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\btstack\third_party\common\ble_user.h" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="519" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx.c" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="24764" topLine="727" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\common\bt_common\bt_ble.h" open="0" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="635" topLine="4" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

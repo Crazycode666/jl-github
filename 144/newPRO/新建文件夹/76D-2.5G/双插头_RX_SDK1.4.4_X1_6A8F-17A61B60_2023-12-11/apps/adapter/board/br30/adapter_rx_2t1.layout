@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\..\..\..\include_lib\driver\cpu\br30\asm\pwm_led.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1264" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="..\..\audio\decoder\adapter_dec_aux.c" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5458" topLine="160" />
+		</Cursor>
+	</File>
+	<File name="..\..\ui_manage.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5673" topLine="160" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br30_develop\pwm_led.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="73903" topLine="2397" />
+		</Cursor>
+	</File>
+	<File name="..\..\log_config\lib_btctrler_config.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3876" topLine="96" />
+		</Cursor>
+	</File>
+	<File name="..\..\audio\decoder\adapter_dec_dual_jla.c" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4261" topLine="118" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx_global_build_cfg.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4589" topLine="77" />
+		</Cursor>
+	</File>
+	<File name="..\..\common\bt_common\bt_status_event.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19202" topLine="581" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br30\asm\power_interface.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1144" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\macro.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7025" topLine="103" />
+		</Cursor>
+	</File>
+	<File name="..\..\idev\idev_mic\adapter_idev_mic.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1085" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="..\..\audio\adapter_audio_stream.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="24575" topLine="660" />
+		</Cursor>
+	</File>
+	<File name="..\..\common\init.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1354" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx.c" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="34892" topLine="1093" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\system\timer.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2754" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="..\..\power_manage\app_charge.c" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1668" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="..\..\odev\odev_dac\adapter_odev_dac.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="430" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br30_develop\audio_config.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3224" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br30_develop\audio_effect\eq_config.c" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21533" topLine="416" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main\wireless_mic_2t1\2t1_rx.c" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17426" topLine="582" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main.c" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="..\..\odev\odev_usb\adapter_odev_usb.c" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1135" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="..\..\audio\adapter_adc.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="832" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="..\..\common\user_cfg.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4678" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="..\..\process\adapter_process.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5036" topLine="146" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx_cfg.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1674" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\adapter_app_status.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="129" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\macro_default.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="69766" topLine="2034" />
+		</Cursor>
+	</File>
+	<File name="..\..\idev\idev_bt\idev_ble\idev_ble_wireless.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10876" topLine="316" />
+		</Cursor>
+	</File>
+	<File name="..\..\idev\idev_usb\adapter_idev_usb.c" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8506" topLine="264" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_power_manage.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="351" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
