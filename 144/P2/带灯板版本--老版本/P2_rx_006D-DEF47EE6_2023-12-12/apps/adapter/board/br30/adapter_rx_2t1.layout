@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="..\..\common\user_cfg.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4678" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="..\..\ui_manage.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5697" topLine="162" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\key_table\iokey_table.c" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="796" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br30\asm\pwm_led.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1224" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\macro_default.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="67995" topLine="1939" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\app_power_manage.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\media\audio_stream.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="316" topLine="242" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx_global_build_cfg.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4589" topLine="75" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\include_lib\driver\cpu\br30\asm\power_interface.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1144" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx_cfg.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4490" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="..\..\audio\adapter_audio_stream.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3876" topLine="550" />
+		</Cursor>
+	</File>
+	<File name="board_wireless_mic_2t1_rx\board_wireless_mic_2t1_rx.c" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="238" />
+		</Cursor>
+	</File>
+	<File name="..\..\audio\adapter_audio_stream.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="884" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="..\..\app_main\wireless_mic_2t1\2t1_rx.c" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21241" topLine="701" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\macro.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8116" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\user_config.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="651" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\idev\idev_bt\idev_ble\adapter_idev_ble.c" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2325" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="..\..\..\..\cpu\br30_develop\pwm_led.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75105" topLine="2457" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\key_event_deal.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4769" topLine="153" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
